@@ -1,0 +1,8 @@
+Git Fork Practice - by Bram
+
+This is a practice file to test:
+- Forking a repository
+- Cloning it to local
+- Creating a new branch
+- Adding a new file (this one)
+- Committing and pushing changes
